@@ -5,7 +5,7 @@
 U.S. House of Representatives Precinct-Level Returns 2016 | Harvard Dataverse / MEDSL
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-lgptjmp23dfna](https://aws.amazon.com/marketplace/pp/prodview-lgptjmp23dfna).
 
 ## Main Overview
 
